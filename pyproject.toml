@@ -1,0 +1,71 @@
+[tool.poetry]
+name = "ipl_data"
+version = "0.1.0"
+description = ""
+authors = ["madhukar01 <mholla8@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+bs4 = "^0.0.1"
+httpx = "^0.24.0"
+
+[tool.poetry.dev-dependencies]
+isort = "^5.10.1"
+pylint = "^2.15.2"
+pre-commit = "^2.20.0"
+black = "^22.8.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 79
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | \.env
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+include_trailing_comma = true
+use_parentheses = true
+multi_line_output = 2
+force_grid_wrap = 0
+sections = ["FUTURE","STDLIB","THIRDPARTY","FIRSTPARTY","LOCALFOLDER"]
+default_section = "THIRDPARTY"
+known_first_party = ["rest_server"]
+line_length = 79
+known_third_party = ["fastapi","pydantic","starlette"]
+force_to_top = true
+
+[tool.flake8]
+format = "flake8"
+show-source = true
+statistics = true
+doctests = true
+enable-extensions = "G"
+strictness = "long"
+docstring-style = "numpy"
+max-line-length = 79
+max-complexity = 25
+exclude = [".git","__pycache__",".venv",".eggs","*.egg"]
+ignore = ["D100", "D104", "D106", "D401", "X100", "W504", "RST303", "RST304", "DAR103", "DAR203", "E501", "W503", "E203", "E722", "B001", "B008", "SIM106", "C901", "SIM102"]
+per-file-ignores = """
+  server/settings/*.py: WPS226, WPS407, WPS412, WPS432
+  server/*/migrations/*.py: WPS102, WPS114, WPS432
+  tests/*.py: S101, WPS432
+  app/*.py: B008
+"""
+
+[tool.pylint.MESSAGE_CONTROL]
