@@ -1,0 +1,2389 @@
+{
+  "csk": [
+    {
+      "team_id": "csk",
+      "player_name": "MS Dhoni",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/57.png",
+      "dob": 363326400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Devon Conway",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/601.png",
+      "dob": 678945600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ruturaj Gaikwad",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/102.png",
+      "dob": 854686800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Subhranshu Senapati",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/971.png",
+      "dob": 851922000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ambati Rayudu",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/60.png",
+      "dob": 496296000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ajinkya Rahane",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/44.png",
+      "dob": 581572800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Shaik Rasheed",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/778.png",
+      "dob": 1095998400000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ravindra Jadeja",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/46.png",
+      "dob": 597387600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Dwaine Pretorius",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/289.png",
+      "dob": 607150800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Mitchell Santner",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/75.png",
+      "dob": 697266000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "K Bhagath Varma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/577.png",
+      "dob": 906350400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Moeen Ali",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/206.png",
+      "dob": 550987200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Shivam Dube",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/211.png",
+      "dob": 741067200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ben Stokes",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/177.png",
+      "dob": 676008000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Nishant Sindhu",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/791.png",
+      "dob": 1081483200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Ajay Mandal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1931.png",
+      "dob": 825224400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Akash Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/535.png",
+      "dob": 1019793600000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Rajvardhan Hangargekar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/783.png",
+      "dob": 1036904400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Deepak Chahar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/91.png",
+      "dob": 713160000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Maheesh Theekshana",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/629.png",
+      "dob": 965102400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Mukesh Choudhary",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/970.png",
+      "dob": 836625600000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Prashant Solanki",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/972.png",
+      "dob": 719121600000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Simarjeet Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/622.png",
+      "dob": 885013200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Tushar Deshpande",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/539.png",
+      "dob": 800510400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Matheesha Pathirana",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1014.png",
+      "dob": 1040187600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Sisanda Magala",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/745.png",
+      "dob": 663224400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "csk",
+      "player_name": "Kyle Jamieson",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/382.png",
+      "dob": 788763600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "dc": [
+    {
+      "team_id": "dc",
+      "player_name": "Rishabh Pant",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 875937600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "David Warner",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/214.png",
+      "dob": 530773200000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Priyam Garg",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 975560400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Prithvi Shaw",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/51.png",
+      "dob": 942123600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Rovman Powell",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/329.png",
+      "dob": 743400000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Ripal Patel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/580.png",
+      "dob": 812260800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Sarfaraz Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/139.png",
+      "dob": 877492800000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Yash Dhull",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/777.png",
+      "dob": 1036990800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Aman Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/979.png",
+      "dob": 848725200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Phil Salt",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1220.png",
+      "dob": 841204800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Manish Pandey",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/16.png",
+      "dob": 621403200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Rilee Rossouw",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1426.png",
+      "dob": 623908800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Abishek Porel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1580.png",
+      "dob": 1034827200000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Axar Patel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/110.png",
+      "dob": 759042000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Lalit Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/538.png",
+      "dob": 852267600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Mitchell Marsh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/40.png",
+      "dob": 687931200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Kamlesh Nagarkoti",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/146.png",
+      "dob": 946357200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Pravin Dubey",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/548.png",
+      "dob": 741499200000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Vicky Ostwal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/786.png",
+      "dob": 1030852800000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Anrich Nortje",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/142.png",
+      "dob": 753426000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Chetan Sakariya",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/592.png",
+      "dob": 888642000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Kuldeep Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/14.png",
+      "dob": 787381200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Wrist spin",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Lungi Ngidi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/99.png",
+      "dob": 828075600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Mustafizur Rahman",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/258.png",
+      "dob": 810360000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Khaleel Ahmed",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/8.png",
+      "dob": 881298000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Ishant Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/50.png",
+      "dob": 589176000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "dc",
+      "player_name": "Mukesh Kumar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1462.png",
+      "dob": 750398400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "kkr": [
+    {
+      "team_id": "kkr",
+      "player_name": "Nitish Rana",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/148.png",
+      "dob": 756968400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium, Right arm Offbreak, Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Rinku Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/152.png",
+      "dob": 876628800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Rahmanullah Gurbaz",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/641.png",
+      "dob": 1006923600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Shreyas Iyer",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/12.png",
+      "dob": 786690000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak, Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Narayan Jagadeesan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/97.png",
+      "dob": 819781200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Litton Das",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/251.png",
+      "dob": 782020800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Mandeep Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/132.png",
+      "dob": 693032400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Aarya Desai",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 1049346000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Johnson Charles",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 600757200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Jason Roy",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/313.png",
+      "dob": 648532800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "David Wiese",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/674.png",
+      "dob": 485236800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Anukul Roy",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/160.png",
+      "dob": 912402000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Andre Russell",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/141.png",
+      "dob": 578289600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Venkatesh Iyer",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/584.png",
+      "dob": 788331600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Shakib Al Hasan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/222.png",
+      "dob": 543560400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Kulwant Khejroliya",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/204.png",
+      "dob": 794120400000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Suyash Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1932.png",
+      "dob": 1052971200000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Lockie Ferguson",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/69.png",
+      "dob": 676785600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Umesh Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/21.png",
+      "dob": 562132800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Harshit Rana",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1013.png",
+      "dob": 984805200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Tim Southee",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/77.png",
+      "dob": 597819600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Shardul Thakur",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/105.png",
+      "dob": 687585600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Sunil Narine",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/156.png",
+      "dob": 580622400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Vaibhav Arora",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/583.png",
+      "dob": 882075600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "kkr",
+      "player_name": "Varun Chakaravarthy",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/140.png",
+      "dob": 683438400000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "gt": [
+    {
+      "team_id": "gt",
+      "player_name": "David Miller",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/128.png",
+      "dob": 613454400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Shubman Gill",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/62.png",
+      "dob": 936763200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Matthew Wade",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/549.png",
+      "dob": 567493200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Wriddhiman Saha",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/225.png",
+      "dob": 467438400000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Kane Williamson",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/65.png",
+      "dob": 650088000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Urvil Patel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1486.png",
+      "dob": 908596800000,
+      "player_type": "batsman",
+      "bowling_type": "Left arm Wrist spin",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "K.S Bharat",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/365.png",
+      "dob": 749620800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Hardik Pandya",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/54.png",
+      "dob": 750312000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Abhinav Manohar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/974.png",
+      "dob": 779688000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "B. Sai Sudharsan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/976.png",
+      "dob": 1003118400000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Darshan Nalkande",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/127.png",
+      "dob": 907473600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Vijay Shankar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/61.png",
+      "dob": 664866000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Odean Smith",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/863.png",
+      "dob": 846824400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Dasun shanaka",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/375.png",
+      "dob": 684388800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Jayant Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/165.png",
+      "dob": 632984400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Pradeep Sangwan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/977.png",
+      "dob": 657781200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Rahul Tewatia",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/120.png",
+      "dob": 737870400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Shivam Mavi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/154.png",
+      "dob": 912056400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Alzarri Joseph",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/229.png",
+      "dob": 848466000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Mohammad Shami",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/47.png",
+      "dob": 652334400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Noor Ahmad",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/975.png",
+      "dob": 966312000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Wrist spin",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Sai Kishore",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/544.png",
+      "dob": 847256400000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Rashid Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/218.png",
+      "dob": 906264000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Yash Dayal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/978.png",
+      "dob": 881989200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Joshua Little",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/678.png",
+      "dob": 941432400000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "gt",
+      "player_name": "Mohit Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/100.png",
+      "dob": 693118800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "lsg": [
+    {
+      "team_id": "lsg",
+      "player_name": "KL Rahul",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/19.png",
+      "dob": 703569600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Manan Vohra",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/185.png",
+      "dob": 742968000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Quinton de Kock",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/170.png",
+      "dob": 724568400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Nicholas Pooran",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/136.png",
+      "dob": 812606400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Karun Nair",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 691995600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Ayush Badoni",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/985.png",
+      "dob": 944197200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Deepak Hooda",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/215.png",
+      "dob": 798264000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Krishnappa Gowtham",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/179.png",
+      "dob": 593323200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Karan Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/986.png",
+      "dob": 968040000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Krunal Pandya",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/17.png",
+      "dob": 669790800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Kyle Mayers",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/726.png",
+      "dob": 715924800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Marcus Stoinis",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/23.png",
+      "dob": 619243200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Romario Shepherd",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/371.png",
+      "dob": 785826000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Daniel Sams",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/546.png",
+      "dob": 720162000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Swapnil Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1483.png",
+      "dob": 664520400000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Prerak Mankad",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/998.png",
+      "dob": 767073600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Yudhvir Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/587.png",
+      "dob": 874123200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Avesh Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/109.png",
+      "dob": 850453200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Mark Wood",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/315.png",
+      "dob": 632034000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Mayank Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/987.png",
+      "dob": 1024286400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Mohsin Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/541.png",
+      "dob": 900475200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Ravi Bishnoi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/520.png",
+      "dob": 968126400000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Jaydev Unadkat",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/180.png",
+      "dob": 687758400000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Yash Thakur",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1550.png",
+      "dob": 914821200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Amit Mishra",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/107.png",
+      "dob": 406962000000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Arpit Guleria",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 862027200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "lsg",
+      "player_name": "Naveen Ul Haq",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/639.png",
+      "dob": 938059200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "mi": [
+    {
+      "team_id": "mi",
+      "player_name": "Rohit Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/6.png",
+      "dob": 546753600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Dewald Brevis",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/797.png",
+      "dob": 1051588800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Suryakumar Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/174.png",
+      "dob": 653284800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium, Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Ishan Kishan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/164.png",
+      "dob": 900734400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "N. Tilak Varma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/993.png",
+      "dob": 1036731600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Ramandeep Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/991.png",
+      "dob": 891061200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Tim David",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/636.png",
+      "dob": 826952400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Tristan Stubbs",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1017.png",
+      "dob": 966225600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Vishnu Vinod",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/581.png",
+      "dob": 754808400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Arjun Tendulkar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/585.png",
+      "dob": 938145600000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Jofra Archer",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/181.png",
+      "dob": 796712400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Mohd. Arshad Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/988.png",
+      "dob": 882594000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Cameron Green",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/550.png",
+      "dob": 928382400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Shams Mulani",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/600.png",
+      "dob": 858229200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Nehal Wadhera",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1541.png",
+      "dob": 968040000000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Duan Jansen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1227.png",
+      "dob": 957153600000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Chris Jordan",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 591940800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Hrithik Shokeen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/992.png",
+      "dob": 966225600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Jasprit Bumrah",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 755154000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Riley Meredith",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 835329600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Jhye Richardson",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/59.png",
+      "dob": 843192000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Kumar Kartikeya Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1015.png",
+      "dob": 883112400000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox, Left arm Wrist spin",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Piyush Chawla",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/149.png",
+      "dob": 598942800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Sandeep Warrier",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/228.png",
+      "dob": 670741200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Akash Madhwal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1045.png",
+      "dob": 754203600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Jason Behrendorff",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/4.png",
+      "dob": 640584000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "mi",
+      "player_name": "Raghav Goyal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1933.png",
+      "dob": 993009600000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Wrist spin",
+      "batting_type": "Left Hand Batsman"
+    }
+  ],
+  "pbks": [
+    {
+      "team_id": "pbks",
+      "player_name": "Shikhar Dhawan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/11.png",
+      "dob": 502606800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Bhanuka Rajapaksa",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/372.png",
+      "dob": 688276800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Jitesh Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1000.png",
+      "dob": 751262400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Jonny Bairstow",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/216.png",
+      "dob": 622785600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Prabhsimran Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/137.png",
+      "dob": 965880000000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Liam Livingstone",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/183.png",
+      "dob": 744436800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak, Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Shahrukh Khan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/590.png",
+      "dob": 801547200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Matthew William Short",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2032.png",
+      "dob": 815806800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Harpreet Bhatia",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1934.png",
+      "dob": 681883200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Atharva Taide",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1001.png",
+      "dob": 956721600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Raj Angad Bawa",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/781.png",
+      "dob": 1037077200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Rishi Dhawan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/996.png",
+      "dob": 635403600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Sam Curran",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/138.png",
+      "dob": 896846400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Sikandar Raza",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/820.png",
+      "dob": 514702800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Mohit Rathee",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1935.png",
+      "dob": 916203600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Shivam singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1936.png",
+      "dob": 803707200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Harpreet Brar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/130.png",
+      "dob": 811224000000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Arshdeep Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/125.png",
+      "dob": 918190800000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Baltej Dhanda",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/994.png",
+      "dob": 657694800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Kagiso Rabada",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/116.png",
+      "dob": 801374400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Nathan Ellis",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/633.png",
+      "dob": 780206400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Rahul Chahar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/171.png",
+      "dob": 933739200000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Gurnoor Singh Brar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1231.png",
+      "dob": 959227200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "pbks",
+      "player_name": "Vidwath Kaverappa",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1564.png",
+      "dob": 919918800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "rr": [
+    {
+      "team_id": "rr",
+      "player_name": "Sanju Samson",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/190.png",
+      "dob": 784530000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Devdutt Padikkal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/200.png",
+      "dob": 962942400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Jos Buttler",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/182.png",
+      "dob": 652766400000,
+      "player_type": "batsman",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Shimron Hetmyer",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/210.png",
+      "dob": 851576400000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Yashasvi Jaiswal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/533.png",
+      "dob": 1009515600000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Dhruv Jurel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1004.png",
+      "dob": 980053200000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Riyan Parag",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/189.png",
+      "dob": 1005368400000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Donovan Ferreira",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2033.png",
+      "dob": 900993600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Kunal Rathore",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1540.png",
+      "dob": 1034136000000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Joe Root",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/312.png",
+      "dob": 662533200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak, Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Ravichandran Ashwin",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/45.png",
+      "dob": 527313600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Akash Vashisht",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1938.png",
+      "dob": 787640400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Jason Holder",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/263.png",
+      "dob": 689317200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Abdul P A",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1542.png",
+      "dob": 907905600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "KC Cariappa",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/227.png",
+      "dob": 766209600000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Kuldeep Sen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1005.png",
+      "dob": 845956800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Kuldip Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/593.png",
+      "dob": 845352000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Navdeep Saini",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/207.png",
+      "dob": 722494800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Obed McCoy",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/645.png",
+      "dob": 852354000000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "KM Asif",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/88.png",
+      "dob": 743486400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Prasidh Krishna",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 824706000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Sandeep Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/220.png",
+      "dob": 737697600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Trent Boult",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/66.png",
+      "dob": 617083200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Murugan Ashwin",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/135.png",
+      "dob": 652766400000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Yuzvendra Chahal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/10.png",
+      "dob": 648705600000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rr",
+      "player_name": "Adam Zampa",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/24.png",
+      "dob": 702018000000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "rcb": [
+    {
+      "team_id": "rcb",
+      "player_name": "Faf du Plessis",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/94.png",
+      "dob": 458539200000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Finn Allen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/595.png",
+      "dob": 924753600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Rajat Patidar",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 738907200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Virat Kohli",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/2.png",
+      "dob": 594709200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Anuj Rawat",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/534.png",
+      "dob": 940132800000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Dinesh Karthik",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/13.png",
+      "dob": 486446400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Suyash S Prabhudessai",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/598.png",
+      "dob": 873518400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Will Jacks",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 911624400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "David Willey",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/90.png",
+      "dob": 636181200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Glenn Maxwell",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/28.png",
+      "dob": 592804800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Mahipal Lomror",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/184.png",
+      "dob": 942728400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Wanindu Hasaranga",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/377.png",
+      "dob": 870148800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Karn Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/98.png",
+      "dob": 561960000000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Michael Bracewell",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1465.png",
+      "dob": 666507600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Kedar Jadhav",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 480661200000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Sonu Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1940.png",
+      "dob": 942296400000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Manoj Bhandage",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1485.png",
+      "dob": 907560000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Harshal Patel",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/114.png",
+      "dob": 659336400000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Shahbaz Ahamad",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/523.png",
+      "dob": 787122000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Akash Deep",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1007.png",
+      "dob": 850626000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Josh Hazlewood",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 663310800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Siddharth Kaul",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/64.png",
+      "dob": 643089600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Mohammed Siraj",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/63.png",
+      "dob": 763534800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Reece Topley",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/574.png",
+      "dob": 761806800000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Himanshu Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1568.png",
+      "dob": 897105600000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Rajan Kumar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1503.png",
+      "dob": 836798400000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Vyshak Vijay Kumar",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 854686800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Wayne Parnell",
+      "avatar_url": "https://www.iplt20.com/assets/images/default-headshot.png",
+      "dob": 617774400000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "rcb",
+      "player_name": "Avinash Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1939.png",
+      "dob": 899611200000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    }
+  ],
+  "srh": [
+    {
+      "team_id": "srh",
+      "player_name": "Abdul Samad",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/525.png",
+      "dob": 1004241600000,
+      "player_type": "batsman",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Aiden Markram",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/287.png",
+      "dob": 781243200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Rahul Tripathi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/188.png",
+      "dob": 667890000000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Glenn Phillips",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/635.png",
+      "dob": 849848400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Harry Brook",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1218.png",
+      "dob": 919659600000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Mayank Agarwal",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/55.png",
+      "dob": 666853200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Heinrich Klaasen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/202.png",
+      "dob": 680846400000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Anmolpreet Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/159.png",
+      "dob": 891061200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Upendra Singh Yadav",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1472.png",
+      "dob": 844747200000,
+      "player_type": "batsman",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Nitish Kumar Reddy",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1944.png",
+      "dob": 1053921600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Abhishek Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/212.png",
+      "dob": 968040000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Marco Jansen",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/586.png",
+      "dob": 957153600000,
+      "player_type": "all-rounder",
+      "bowling_type": "Left arm Medium fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Washington Sundar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/20.png",
+      "dob": 939096000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Offbreak",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Vivrant Sharma",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1942.png",
+      "dob": 941256000000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Mayank Dagar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1547.png",
+      "dob": 847688400000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Sanvir Singh",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1943.png",
+      "dob": 845092800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Bhuvneshwar Kumar",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/15.png",
+      "dob": 634194000000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Fazalhaq Farooqi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1011.png",
+      "dob": 969595200000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Fast medium",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Kartik Tyagi",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/536.png",
+      "dob": 973659600000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "T Natarajan",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/224.png",
+      "dob": 675316800000,
+      "player_type": "bowler",
+      "bowling_type": "Left arm Medium",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Umran Malik",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/637.png",
+      "dob": 943246800000,
+      "player_type": "bowler",
+      "bowling_type": "Right arm Fast",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Akeal Hosein",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/722.png",
+      "dob": 735710400000,
+      "player_type": "bowler",
+      "bowling_type": "Slow Left arm Orthodox",
+      "batting_type": "Left Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Adil Rashid",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/311.png",
+      "dob": 572072400000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Mayank Markande",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/87.png",
+      "dob": 879224400000,
+      "player_type": "bowler",
+      "bowling_type": "Legbreak",
+      "batting_type": "Right Hand Batsman"
+    },
+    {
+      "team_id": "srh",
+      "player_name": "Samarth\u00a0Vyas",
+      "avatar_url": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2023/1534.png",
+      "dob": 817534800000,
+      "player_type": "all-rounder",
+      "bowling_type": "Legbreak Googly",
+      "batting_type": "Right Hand Batsman"
+    }
+  ]
+}
